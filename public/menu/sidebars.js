@@ -236,7 +236,7 @@ const sidebars = {
       type: 'category',
       label: 'Marketplace',
       link: {type: 'doc', id: 'web-services/marketplace/overview'},
-      items: ['web-services/marketplace/studio-as-purchase-server',
+      items: ['web-services/marketplace/studio-as-purchase-server', 'web-services/marketplace/modio-as-purchase-server',
         {
           type: 'category',
           label: 'Platforms Setup',

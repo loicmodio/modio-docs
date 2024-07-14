@@ -27,7 +27,7 @@ The path of least resistance. mod.io does all the heavy lifting.
 | Your Studio | Registering eligible Platform Entitlements (SKU's) with mod.io.
 | mod.io | Platform Entitlement Consumption, Virtual Token Transaction, Refunds / Chargebacks / Chargeback-reversal processing from platforms.
 
-For a detailed walkthrough of this flow, head to the mod.io as Purchase Server section.
+For a detailed walkthrough of this flow, head to the [mod.io as Purchase Server](/web-services/marketplace/modio-as-purchase-server/) section.
 
 ### Game Studio as Purchase Server
 
